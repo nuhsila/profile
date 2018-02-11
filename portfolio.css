@@ -1,0 +1,32 @@
+#work-history {
+  color: black;
+background-color: grey;
+border: 2px black solid;
+margin: 10px;
+}
+
+#education {
+  color: black;
+background-color: grey;
+border: 2px black solid;
+margin: 10px;
+}
+
+#social {
+  color: black;
+background-color: grey;
+border: 2px black solid;
+margin: 10px;
+}
+
+#contact{
+  float: left;
+}
+
+#special{
+  float:right;
+}
+
+.h1 {
+  color: white;
+}
